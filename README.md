@@ -36,26 +36,36 @@ Users can create tasks with an optional note, mark tasks as completed, edit exis
 - **Color changes**: (gray when disabled, primary when enabled)
 
 ## Screenshots
+
 ### Splash Screen
-![TaskFlow Splash Screen](screenshots/tsg-appdev-p01-atifshehzad-splash-screen.png)
+<img src="screenshots/tsg-appdev-p01-atifshehzad-splash-screen.png" width="300">
+
 ### Onboarding Screen
-![TaskFlow Onboarding Screen](screenshots/tsg-appdev-p01-atifshehzad-onboard-screen.png)
+<img src="screenshots/tsg-appdev-p01-atifshehzad-onboard-screen.png" width="300">
+
 ### Empty State
-![TaskFlow Empty State](screenshots/tsg-appdev-p01-atifshehzad-empty-state.png)
+<img src="screenshots/tsg-appdev-p01-atifshehzad-empty-state.png" width="300">
+
 ### Add Task
-![TaskFlow Add Task](screenshots/tsg-appdev-p01-atifshehzad-add-task.png)
+<img src="screenshots/tsg-appdev-p01-atifshehzad-add-task.png" width="300">
+
 ### Task List
-![TaskFlow Task List](screenshots/tsg-appdev-p01-atifshehzad-task-list.png)
+<img src="screenshots/tsg-appdev-p01-atifshehzad-task-list.png" width="300">
+
 ### Update Task
-![TaskFlow Add Task](screenshots/tsg-appdev-p01-atifshehzad-update-task.png)
+<img src="screenshots/tsg-appdev-p01-atifshehzad-update-task.png" width="300">
+
 ### Filter Task
-![TaskFlow Add Task](screenshots/tsg-appdev-p01-atifshehzad-filter-task.png)
+<img src="screenshots/tsg-appdev-p01-atifshehzad-filter-task.png" width="300">
+
 ### Completed Tasks
-![TaskFlow Completed Tasks](screenshots/tsg-appdev-p01-atifshehzad-completed-tasks.png)
+<img src="screenshots/tsg-appdev-p01-atifshehzad-completed-tasks.png" width="300">
+
 ### Delete Task
-![TaskFlow Add Task](screenshots/tsg-appdev-p01-atifshehzad-delete-task.png)
+<img src="screenshots/tsg-appdev-p01-atifshehzad-delete-task.png" width="300">
+
 ### Wireframes
-![TaskFlow Wireframes](wireframes/tsg-appdev-p01-atifshehzad-wireframes.png)
+<img src="wireframes/tsg-appdev-p01-atifshehzad-wireframes.png" width="600">
 
 ## Tech Stack
 - **Framework**: Flutter
