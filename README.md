@@ -67,6 +67,25 @@ Users can create tasks with an optional note, mark tasks as completed, edit exis
 ### Wireframes
 <img src="wireframes/tsg-appdev-p01-atifshehzad-wireframes.png" width="600">
 
+## Build Instructions
+- **Prerequisites**: Before running the project, make sure the following are installed and configured:
+- Flutter SDK
+- Android Studio
+- Android device or emulator
+
+## Install Dependencies
+Clone the repository and install the required Flutter dependencies:
+flutter pub get
+
+## Run the Application
+To run the application on a connected Android device or emulator:
+flutter run
+Build Release APK
+To generate a release APK:
+flutter build apk --release
+The generated release APK can be found at:
+build/app/outputs/flutter-apk/app-release.apk
+
 ## Tech Stack
 - **Framework**: Flutter
 - **Language**: Dart
