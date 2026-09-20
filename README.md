@@ -75,16 +75,16 @@ Users can create tasks with an optional note, mark tasks as completed, edit exis
 
 ## Install Dependencies
 Clone the repository and install the required Flutter dependencies:
-flutter pub get
+- flutter pub get
 
 ## Run the Application
 To run the application on a connected Android device or emulator:
-flutter run
-Build Release APK
+- flutter run
+## Build Release APK
 To generate a release APK:
-flutter build apk --release
+- flutter build apk --release
 The generated release APK can be found at:
-build/app/outputs/flutter-apk/app-release.apk
+- build/app/outputs/flutter-apk/app-release.apk
 
 ## Tech Stack
 - **Framework**: Flutter
