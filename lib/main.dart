@@ -7,7 +7,6 @@ import 'package:task_flow/screens/splash_screen.dart';
 import 'package:task_flow/theme/app_theme.dart';
 import 'controllers/todo_provider.dart';
 
-//https://drive.google.com/drive/folders/1yJ6yiVlJlV1FGKkWEOajXxcaGzeX-0Ms?usp=sharing
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Hive.initFlutter();
